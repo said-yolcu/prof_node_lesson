@@ -13,3 +13,6 @@
 [submodule "chapter_7"]
 	path = chapter_7
 	url = https://github.com/said-yolcu/chapter_7
+[submodule "hello_world_node.js"]
+	path = hello_world_node.js
+	url = https://github.com/said-yolcu/hello_world_node.js
