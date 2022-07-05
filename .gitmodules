@@ -1,3 +1,15 @@
 [submodule "chapter_3"]
 	path = chapter_3
 	url = https://github.com/said-yolcu/chapter_3
+[submodule "chapter_4"]
+	path = chapter_4
+	url = https://github.com/said-yolcu/chapter_4
+[submodule "chapter_5"]
+	path = chapter_5
+	url = https://github.com/said-yolcu/chapter_5
+[submodule "chapter_6"]
+	path = chapter_6
+	url = https://github.com/said-yolcu/chapter_6
+[submodule "chapter_7"]
+	path = chapter_7
+	url = https://github.com/said-yolcu/chapter_7
